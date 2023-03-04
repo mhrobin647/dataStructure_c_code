@@ -9,6 +9,5 @@ int main(){
             printf("The element which you search at index %d\n",i+1);
         }
     }
-    printf("Robin");
     return 0;
 }
